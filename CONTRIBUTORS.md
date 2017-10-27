@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Rina Ram] (https://github.com/Shinigami4580)
+- Place: United States
+- Bio: Beginner
+- GitHub: [Shinigami4580](https://github.com/Shinigami4580)
